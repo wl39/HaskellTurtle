@@ -1,6 +1,5 @@
 # HaskellTurtle
 - 사용 언어: Haskell
-- Github link: 
 - Haskell을 기반으로 만든, Turtle++ 언어 생성
 	- Turtle++은 (https://turtleacademy.com/)에서 영감을 받아 만든 프로그램입니다. Turtle++에는 총 6개의 built-in 함수가 존재합니다.
 		- penDown: Turtle이 펜을 내려, 화면에 그림을 그릴준비를 합니다. (Turtle의 pen이 down인 상태에서 fd 또는 moveTo 함수를 통해 이동하게 되면, 화면에는 Turtle의 펜 색상에 맞는 선분을 그리게 됩니다.)
